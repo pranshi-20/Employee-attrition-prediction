@@ -7,7 +7,7 @@ To predict Employee Attrition by the given data about his/her past history.
 ## Link to the competition:
 https://www.kaggle.com/c/summeranalytics2020
 
-*I would like to thank Consultancy and Analytics Club of IIT Guwahati, for conducting such a wonderful hackathon. It was really fun in applying what we learned in the course. Also this has been an ice breaker for many people.*
+**I would like to thank Consultancy and Analytics Club of IIT Guwahati, for conducting such a wonderful hackathon. It was really fun in applying what we learned in the course. Also this has been an ice breaker for many people.**
 
 ## Data description:
 * Id - an anonymous id given to an Employee
@@ -32,7 +32,7 @@ https://www.kaggle.com/c/summeranalytics2020
 * YearsInCurrentRole - Number of years in current role
 * YearsSinceLastPromotion - Number of years since last promotion
 * YearsWithCurrManager - Number of years with the current manager
-* *Education
+* **Education**
 
 1. 'Below College'
 2. 'College'
@@ -40,50 +40,54 @@ https://www.kaggle.com/c/summeranalytics2020
 4. 'Master'
 5. 'Doctor'
 
-* EnvironmentSatisfaction
+* **EnvironmentSatisfaction**
 
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+1. 'Low'
+2. 'Medium'
+3. 'High'
+4. 'Very High'
 
-* JobInvolvement
+* **JobInvolvement**
 
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+1. 'Low'
+2. 'Medium'
+3. 'High'
+4. 'Very High'
 
-* JobSatisfaction
+* **JobSatisfaction**
 
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High
+1. 'Low'
+2. 'Medium'
+3. 'High'
+4. 'Very High
 '
-* PerformanceRating
+* **PerformanceRating**
 
-1 'Low'
-2 'Good'
-3 'Excellent'
-4 'Outstanding'
+1. 'Low'
+2. 'Good'
+3. 'Excellent'
+4. 'Outstanding'
 
-* Behaviour
+* **Behaviour**
 
-1 'Good'
-2 'Bad'
-3 'Not Rated'
+1. 'Good'
+2. 'Bad'
+3. 'Not Rated'
 
-* CommunicationSkill
+* **CommunicationSkill**
 
-1 'Bad'
-2 'Average'
-3 'Good'
-4 'Better'
-5 'Best'
-* StockOptionLevel
+1. 'Bad'
+2. 'Average'
+3. 'Good'
+4. 'Better'
+5. 'Best'
 
-0 'No stocks'
-1 'Less Stocks'
-2 'Moderate Stocks'
-3 'A lot of Stocks'
+* **StockOptionLevel**
+
+0-  'No stocks'
+1-  'Less Stocks'
+2-  'Moderate Stocks'
+3-  'A lot of Stocks'
+
+**You can find the data here**-
+https://www.kaggle.com/c/summeranalytics2020/data
