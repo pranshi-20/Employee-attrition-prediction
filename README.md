@@ -32,13 +32,13 @@ https://www.kaggle.com/c/summeranalytics2020
 * YearsInCurrentRole - Number of years in current role
 * YearsSinceLastPromotion - Number of years since last promotion
 * YearsWithCurrManager - Number of years with the current manager
-* Education
+* *Education
 
-1 'Below College'
-2 'College'
-3 'Bachelor'
-4 'Master'
-5 'Doctor'
+1. 'Below College'
+2. 'College'
+3. 'Bachelor'
+4. 'Master'
+5. 'Doctor'
 
 * EnvironmentSatisfaction
 
