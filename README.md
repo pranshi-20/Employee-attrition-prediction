@@ -7,8 +7,7 @@ To predict Employee Attrition by the given data about his/her past history.
 ## Link to the competition:
 https://www.kaggle.com/c/summeranalytics2020
 
-**I would like to thank Consultancy and Analytics Club of IIT Guwahati, for conducting such a wonderful hackathon. It was really fun in applying what we learned in the course. Also this has been an ice breaker for many people.**
-
+**I would like to thank Consultancy and Analytics Club of IIT Guwahati, for conducting such a wonderful hackathon.
 ## Data description:
 * Id - an anonymous id given to an Employee
 * Age - Age of an Employee
